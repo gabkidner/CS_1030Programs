@@ -1,0 +1,2 @@
+Some message!
+with 2 lines!
